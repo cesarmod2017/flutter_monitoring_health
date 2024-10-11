@@ -2,6 +2,7 @@ name: flutter_monitoring_health_example
 description: "Demonstrates how to use the flutter_monitoring_health plugin."
 publish_to: 'none'
 version: 0.0.1+1
+
 environment:
   sdk: '>=3.4.3 <4.0.0'
 
