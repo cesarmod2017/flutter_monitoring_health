@@ -1,6 +1,6 @@
 name: flutter_monitoring_health
 description: A Flutter plugin to monitor device health and perform internet speed tests.
-version: 0.0.1
+version: 0.0.1+1
 homepage: https://github.com/yourusername/flutter_monitoring_health
 
 environment:
